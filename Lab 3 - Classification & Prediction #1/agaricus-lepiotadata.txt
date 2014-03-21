@@ -1,3 +1,4 @@
+edible,cap-shape,cap-surface,cap-color,bruises,odor,gill-attachment,gill-spacing,gill-size,gill-color,stalk-shape,stalk-root,stalk-surface-above-ring,stalk-surface-below-ring,stalk-color-above-ring,stalk-color-below-ring,veil-type,veil-color,ring-numbers,ring-type,spore-print-color,population,habitat
 e,b,s,n,f,n,f,c,b,w,e,b,y,y,n,n,p,w,t,p,w,y,p
 e,x,f,n,t,n,f,c,b,u,t,b,s,s,w,p,p,w,o,p,n,v,d
 e,x,f,g,f,n,f,w,b,h,t,e,s,s,w,w,p,w,o,e,k,s,g
